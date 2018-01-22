@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jan 19 23:21:30 2018
-
+titile：Ordinary Least Squares
 @author: leonard_tia
 """
 import matplotlib.pyplot as plt
